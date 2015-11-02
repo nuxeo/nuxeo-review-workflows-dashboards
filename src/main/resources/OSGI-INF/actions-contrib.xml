@@ -8,6 +8,10 @@
       <category>VIEW_ACTION_LIST</category>
       <filter-id>isRoute</filter-id>
       <filter-id>isParallelWorkflow</filter-id>
+      <properties>
+        <!-- disable ajax support to avoid multiple calls to document.registerElement -->
+        <property name="ajaxSupport">false</property>
+      </properties>
     </action>
 
     <action id="TAB_SERIAL_WF_ANALYTICS" link="/incl/tabs/serial_workflow_analytics.xhtml"
@@ -15,6 +19,10 @@
       <category>VIEW_ACTION_LIST</category>
       <filter-id>isRoute</filter-id>
       <filter-id>isSerialWorkflow</filter-id>
+      <properties>
+        <!-- disable ajax support to avoid multiple calls to document.registerElement -->
+        <property name="ajaxSupport">false</property>
+      </properties>
     </action>
 
   </extension>
