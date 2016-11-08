@@ -2,6 +2,8 @@
 
 Nuxeo addon to provide data visualization dashboards for Review Workflows.
 
+Status: Deprecated since LTS 2016
+
 ## Building
 ### Requirements
 Building this sample requires the following software:
