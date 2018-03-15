@@ -1338,9 +1338,9 @@
                               "resolved": "https://registry.npmjs.org/path-exists/-/path-exists-2.1.0.tgz"
                             },
                             "pinkie-promise": {
-                              "version": "2.0.0",
+                              "version": "2.0.1",
                               "from": "pinkie-promise@>=2.0.0 <3.0.0",
-                              "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.0.tgz",
+                              "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz",
                               "dependencies": {
                                 "pinkie": {
                                   "version": "2.0.1",
@@ -1391,9 +1391,9 @@
                                   "resolved": "https://registry.npmjs.org/pify/-/pify-2.3.0.tgz"
                                 },
                                 "pinkie-promise": {
-                                  "version": "2.0.0",
+                                  "version": "2.0.1",
                                   "from": "pinkie-promise@>=2.0.0 <3.0.0",
-                                  "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.0.tgz",
+                                  "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz",
                                   "dependencies": {
                                     "pinkie": {
                                       "version": "2.0.1",
@@ -1432,9 +1432,9 @@
                                   "resolved": "https://registry.npmjs.org/pify/-/pify-2.3.0.tgz"
                                 },
                                 "pinkie-promise": {
-                                  "version": "2.0.0",
+                                  "version": "2.0.1",
                                   "from": "pinkie-promise@>=2.0.0 <3.0.0",
-                                  "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.0.tgz",
+                                  "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz",
                                   "dependencies": {
                                     "pinkie": {
                                       "version": "2.0.1",
@@ -1764,9 +1764,9 @@
                           "resolved": "https://registry.npmjs.org/path-exists/-/path-exists-2.1.0.tgz"
                         },
                         "pinkie-promise": {
-                          "version": "2.0.0",
+                          "version": "2.0.1",
                           "from": "pinkie-promise@>=2.0.0 <3.0.0",
-                          "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.0.tgz",
+                          "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz",
                           "dependencies": {
                             "pinkie": {
                               "version": "2.0.1",
@@ -1817,9 +1817,9 @@
                               "resolved": "https://registry.npmjs.org/pify/-/pify-2.3.0.tgz"
                             },
                             "pinkie-promise": {
-                              "version": "2.0.0",
+                              "version": "2.0.1",
                               "from": "pinkie-promise@>=2.0.0 <3.0.0",
-                              "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.0.tgz",
+                              "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz",
                               "dependencies": {
                                 "pinkie": {
                                   "version": "2.0.1",
@@ -1858,9 +1858,9 @@
                               "resolved": "https://registry.npmjs.org/pify/-/pify-2.3.0.tgz"
                             },
                             "pinkie-promise": {
-                              "version": "2.0.0",
+                              "version": "2.0.1",
                               "from": "pinkie-promise@>=2.0.0 <3.0.0",
-                              "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.0.tgz",
+                              "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz",
                               "dependencies": {
                                 "pinkie": {
                                   "version": "2.0.1",
@@ -3490,9 +3490,9 @@
                                   }
                                 },
                                 "pinkie-promise": {
-                                  "version": "2.0.0",
+                                  "version": "2.0.1",
                                   "from": "pinkie-promise@>=2.0.0 <3.0.0",
-                                  "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.0.tgz",
+                                  "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz",
                                   "dependencies": {
                                     "pinkie": {
                                       "version": "2.0.1",
@@ -4682,9 +4682,9 @@
                                   }
                                 },
                                 "pinkie-promise": {
-                                  "version": "2.0.0",
+                                  "version": "2.0.1",
                                   "from": "pinkie-promise@>=2.0.0 <3.0.0",
-                                  "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.0.tgz",
+                                  "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz",
                                   "dependencies": {
                                     "pinkie": {
                                       "version": "2.0.1",
@@ -7383,9 +7383,9 @@
                                   }
                                 },
                                 "pinkie-promise": {
-                                  "version": "2.0.0",
+                                  "version": "2.0.1",
                                   "from": "pinkie-promise@>=2.0.0 <3.0.0",
-                                  "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.0.tgz",
+                                  "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz",
                                   "dependencies": {
                                     "pinkie": {
                                       "version": "2.0.1",
@@ -8551,9 +8551,9 @@
                                   }
                                 },
                                 "pinkie-promise": {
-                                  "version": "2.0.0",
+                                  "version": "2.0.1",
                                   "from": "pinkie-promise@>=2.0.0 <3.0.0",
-                                  "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.0.tgz",
+                                  "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz",
                                   "dependencies": {
                                     "pinkie": {
                                       "version": "2.0.1",
@@ -11304,9 +11304,9 @@
                                   }
                                 },
                                 "pinkie-promise": {
-                                  "version": "2.0.0",
+                                  "version": "2.0.1",
                                   "from": "pinkie-promise@>=2.0.0 <3.0.0",
-                                  "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.0.tgz",
+                                  "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz",
                                   "dependencies": {
                                     "pinkie": {
                                       "version": "2.0.1",
@@ -12496,9 +12496,9 @@
                                   }
                                 },
                                 "pinkie-promise": {
-                                  "version": "2.0.0",
+                                  "version": "2.0.1",
                                   "from": "pinkie-promise@>=2.0.0 <3.0.0",
-                                  "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.0.tgz",
+                                  "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz",
                                   "dependencies": {
                                     "pinkie": {
                                       "version": "2.0.1",
@@ -14149,9 +14149,9 @@
                           "resolved": "https://registry.npmjs.org/path-exists/-/path-exists-2.1.0.tgz"
                         },
                         "pinkie-promise": {
-                          "version": "2.0.0",
+                          "version": "2.0.1",
                           "from": "pinkie-promise@>=2.0.0 <3.0.0",
-                          "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.0.tgz",
+                          "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz",
                           "dependencies": {
                             "pinkie": {
                               "version": "2.0.1",
@@ -14202,9 +14202,9 @@
                               "resolved": "https://registry.npmjs.org/pify/-/pify-2.3.0.tgz"
                             },
                             "pinkie-promise": {
-                              "version": "2.0.0",
+                              "version": "2.0.1",
                               "from": "pinkie-promise@>=2.0.0 <3.0.0",
-                              "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.0.tgz",
+                              "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz",
                               "dependencies": {
                                 "pinkie": {
                                   "version": "2.0.1",
@@ -14243,9 +14243,9 @@
                               "resolved": "https://registry.npmjs.org/pify/-/pify-2.3.0.tgz"
                             },
                             "pinkie-promise": {
-                              "version": "2.0.0",
+                              "version": "2.0.1",
                               "from": "pinkie-promise@>=2.0.0 <3.0.0",
-                              "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.0.tgz",
+                              "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz",
                               "dependencies": {
                                 "pinkie": {
                                   "version": "2.0.1",
@@ -14774,9 +14774,9 @@
                               "resolved": "https://registry.npmjs.org/path-exists/-/path-exists-2.1.0.tgz"
                             },
                             "pinkie-promise": {
-                              "version": "2.0.0",
+                              "version": "2.0.1",
                               "from": "pinkie-promise@>=2.0.0 <3.0.0",
-                              "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.0.tgz",
+                              "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz",
                               "dependencies": {
                                 "pinkie": {
                                   "version": "2.0.1",
@@ -14827,9 +14827,9 @@
                                   "resolved": "https://registry.npmjs.org/pify/-/pify-2.3.0.tgz"
                                 },
                                 "pinkie-promise": {
-                                  "version": "2.0.0",
+                                  "version": "2.0.1",
                                   "from": "pinkie-promise@>=2.0.0 <3.0.0",
-                                  "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.0.tgz",
+                                  "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz",
                                   "dependencies": {
                                     "pinkie": {
                                       "version": "2.0.1",
@@ -14868,9 +14868,9 @@
                                   "resolved": "https://registry.npmjs.org/pify/-/pify-2.3.0.tgz"
                                 },
                                 "pinkie-promise": {
-                                  "version": "2.0.0",
+                                  "version": "2.0.1",
                                   "from": "pinkie-promise@>=2.0.0 <3.0.0",
-                                  "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.0.tgz",
+                                  "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz",
                                   "dependencies": {
                                     "pinkie": {
                                       "version": "2.0.1",
@@ -16037,9 +16037,9 @@
                               }
                             },
                             "pinkie-promise": {
-                              "version": "2.0.0",
+                              "version": "2.0.1",
                               "from": "pinkie-promise@>=2.0.0 <3.0.0",
-                              "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.0.tgz",
+                              "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz",
                               "dependencies": {
                                 "pinkie": {
                                   "version": "2.0.1",
@@ -16427,9 +16427,9 @@
                           "resolved": "https://registry.npmjs.org/path-exists/-/path-exists-2.1.0.tgz"
                         },
                         "pinkie-promise": {
-                          "version": "2.0.0",
+                          "version": "2.0.1",
                           "from": "pinkie-promise@>=2.0.0 <3.0.0",
-                          "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.0.tgz",
+                          "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz",
                           "dependencies": {
                             "pinkie": {
                               "version": "2.0.1",
@@ -16480,9 +16480,9 @@
                               "resolved": "https://registry.npmjs.org/pify/-/pify-2.3.0.tgz"
                             },
                             "pinkie-promise": {
-                              "version": "2.0.0",
+                              "version": "2.0.1",
                               "from": "pinkie-promise@>=2.0.0 <3.0.0",
-                              "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.0.tgz",
+                              "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz",
                               "dependencies": {
                                 "pinkie": {
                                   "version": "2.0.1",
@@ -16521,9 +16521,9 @@
                               "resolved": "https://registry.npmjs.org/pify/-/pify-2.3.0.tgz"
                             },
                             "pinkie-promise": {
-                              "version": "2.0.0",
+                              "version": "2.0.1",
                               "from": "pinkie-promise@>=2.0.0 <3.0.0",
-                              "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.0.tgz",
+                              "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz",
                               "dependencies": {
                                 "pinkie": {
                                   "version": "2.0.1",
@@ -17776,9 +17776,9 @@
                   "resolved": "https://registry.npmjs.org/path-exists/-/path-exists-2.1.0.tgz"
                 },
                 "pinkie-promise": {
-                  "version": "2.0.0",
+                  "version": "2.0.1",
                   "from": "pinkie-promise@>=2.0.0 <3.0.0",
-                  "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.0.tgz",
+                  "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz",
                   "dependencies": {
                     "pinkie": {
                       "version": "2.0.1",
